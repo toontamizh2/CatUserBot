@@ -9,7 +9,7 @@ To be safe fork this repo and then press deploy button from the forked repo
 
 Fork Deploy is highly recommended
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/toontamizh2/CatUserBot)
 
 ## credits
    - [@midnightmadwalk](https://t.me/midnightmadwalk)
